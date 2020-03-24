@@ -36,3 +36,7 @@ Three files will be created:
 * `valid_zips.json`: A JSON file with one item: a list of all the ZIP codes
 
 That's it!
+
+## License
+
+[MIT License](LICENSE)
